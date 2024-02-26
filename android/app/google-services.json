@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "244931750915",
+    "project_id": "music-app-qhbwxg",
+    "storage_bucket": "music-app-qhbwxg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244931750915:android:9ebf90b0fa687c24913236",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244931750915-qr1rv7snd61qlhqvrdq5n89bmrutgd4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUv598dOC3Ht71ZpBE5UEDNJJD49npVhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244931750915-qr1rv7snd61qlhqvrdq5n89bmrutgd4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244931750915-a8n5nn185teu4rejdorbevsotj5dcei4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Do"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
